@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Dominika and I'm a student from Poland 🇵🇱</h2>
+<h2 align="left">Hi! My name is Dominika and I'm a student from Poland</h2>
 
 ###
 
